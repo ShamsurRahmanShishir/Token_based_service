@@ -1,0 +1,17 @@
+/*
+ * token.c
+ *
+ * Created: 12/16/2021 3:04:31 PM
+ * Author: LENOVO
+ */
+
+#include <mega32.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
